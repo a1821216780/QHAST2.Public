@@ -14,7 +14,7 @@
 ### 0.0.3 BeamL
 - <span style="color: green;">&#10004;</span> 已完成任务 开发动态几何精确梁
 - <span style="color: green;">&#10004;</span> 已完成任务 植入静态共旋梁方法
-- <span style="color: green;">&#10004;</span> 已完成任务  开发动态共旋梁模型
+- <span style="color: green;">&#10004;</span> 已完成任务  开发动态共旋梁模型,耦合工作正在进行
 - <span style="color: red;">&#10060;</span> 未完成任务  向 MBD 模块当中耦合
 ### 0.0.4 PostL
 - <span style="color: red;">&#10060;</span> 未完成任务  支持将计算结果直接写入到Excle文件当中,处理极限载荷
